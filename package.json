@@ -12,7 +12,7 @@
   "dependencies": {
       "@sap/cds": "6.2.2",
       "express": "^4",
-      "hdb": "^0.19.5"
+      "hdb": "^0.19.6"
   },
   "devDependencies": {
       "@sap/ux-specification": "^1.96.4",
