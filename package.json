@@ -15,7 +15,7 @@
       "hdb": "^0.19.5"
   },
   "devDependencies": {
-      "@sap/ux-specification": "^1.96.4",
+      "@sap/ux-specification": "^1.108.15",
       "sqlite3": "^5.0.2"
   },
   "scripts": {
